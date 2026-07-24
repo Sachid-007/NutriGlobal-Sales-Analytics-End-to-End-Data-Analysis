@@ -1,7 +1,7 @@
 # # NutriGlobal Sales Analysis
-[![Alt Text](<img width="2816" height="1536" alt="Nutriglobal-1" src="https://github.com/user-attachments/assets/6da7a9ba-2f77-458f-8c8c-ffb871e9a1d5" />
-)](![Uploading Nutriglobal-1.png…]()
-)
+[![Alt Text](<img width="2816" height="1536" alt="Nutriglobal-1" src="https://github.com/user-attachments/assets/6b3875a7-7ed6-4e52-ba92-0d61e7a172ca" />
+)]
+
 
 
 ## Project Background
