@@ -35,6 +35,7 @@ The complete exploratory data analysis (EDA) and visualization notebook can be f
 # Data Structure & Initial Checks
 
 The analysis is based on a cleaned sales dataset containing **4,384 transaction records** of nutritional supplement sales across **three countries (USA, UK, and Canada)** from **2020 to 2025**. Each record represents a sales transaction with information on product category, sales platform, pricing, discounts, revenue, units sold, and product returns.
+**Dataset:** [Nutrition Supplement Sales Dataset (Kaggle)]([https://www.kaggle.com/your-dataset-link](https://www.kaggle.com/datasets/zahidmughal2343/supplement-sales-data))
 
 The dataset includes the following key business dimensions:
 
@@ -58,8 +59,7 @@ The following dashboard summarizes the primary business metrics and performance 
 
 The remainder of this report explores these findings in greater detail, highlighting performance across products, markets, sales platforms, and time to identify opportunities for continued business growth.
 
-
-    # Insights Deep Dive
+# Insights Deep Dive
 
 The following sections explore the key drivers of NutriGlobal's sales performance, focusing on product categories, geographic markets, sales platforms, and long-term sales trends. Each insight is supported by SQL analysis and visualized within the Tableau dashboard.
 
@@ -71,7 +71,7 @@ The remaining categories generated relatively balanced revenue, indicating a div
 
 ![Revenue by Product Category](Images/output3.png)
 
-    ### Geographic Performance
+   ### Geographic Performance
 
 Among the three markets analyzed, **Canada** generated the highest total revenue at approximately **$7.85M**, outperforming both the USA and the UK.
 
@@ -79,14 +79,14 @@ Although sales remained relatively balanced across all three countries, Canada's
 
 ![Revenue by country](Images/output4.png)
 
-    ### Platform Performance
+   ### Platform Performance
 
 Sales performance across online marketplaces remained competitive, with **iHerb** generating approximately **$7.86M** in total revenue, making it the company's highest-performing sales platform.
 
 Amazon and Walmart followed closely behind, demonstrating that NutriGlobal maintains a well-balanced multi-channel sales strategy rather than relying heavily on a single marketplace.
 
 ![Revenue by Platform](Images/output5.png)
-    ### Sales Trend Analysis
+   ### Sales Trend Analysis
 
 Monthly sales remained relatively stable throughout the analysis period, with revenue generally ranging between **$300K** and **$450K** per month.
 
@@ -94,7 +94,7 @@ No significant long-term decline or rapid growth trend was observed, indicating 
 
 ![Monthly Sales trend](Images/output6.png)
 
-    ### Top Products
+   ### Top Products
 
 Product-level analysis highlights the individual supplements contributing the highest revenue across the business. While overall category performance remained balanced, a small group of products consistently generated stronger sales than the rest of the portfolio.
 
@@ -103,7 +103,7 @@ Monitoring the performance of these top-selling products can help prioritize inv
 Images/
     top_10_products.png
 
-    # Recommendations
+   # Recommendations
 
 Based on the findings from this analysis, the following recommendations could help NutriGlobal strengthen business performance and support future growth:
 
