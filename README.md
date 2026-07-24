@@ -20,7 +20,7 @@ This analysis focuses on the following key business areas:
 
   An interactive Tableau dashboard can be viewed here.
 
-> 🔗 **Tableau Public Dashboard:** *([Add your Tableau Public link after publishing](https://public.tableau.com/app/profile/sachidananda.swain6437/viz/NutriGlobalSalesDashboard/GlobalNutritionSalesDashboard?publish=yes))*
+> 🔗 **Tableau Public Dashboard:** *([here](https://public.tableau.com/app/profile/sachidananda.swain6437/viz/NutriGlobalSalesDashboard/GlobalNutritionSalesDashboard?publish=yes))*
 
 The SQL queries used to inspect and perform data quality checks can be found [here](SQL/02_data_quality_checks.sql).
 
