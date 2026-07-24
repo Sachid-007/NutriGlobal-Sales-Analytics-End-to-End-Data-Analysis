@@ -1,6 +1,7 @@
 # # NutriGlobal Sales Analysis
 
-![here](Nutriglobal-2.png)
+![Uploading Nutriglobal-1.png…]()
+
 
 ## Project Background
 
