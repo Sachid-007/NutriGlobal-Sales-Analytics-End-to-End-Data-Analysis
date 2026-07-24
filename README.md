@@ -35,6 +35,7 @@ The complete exploratory data analysis (EDA) and visualization notebook can be f
 # Data Structure & Initial Checks
 
 The analysis is based on a cleaned sales dataset containing **4,384 transaction records** of nutritional supplement sales across **three countries (USA, UK, and Canada)** from **2020 to 2025**. Each record represents a sales transaction with information on product category, sales platform, pricing, discounts, revenue, units sold, and product returns.
+
 **Dataset:** [Nutrition Supplement Sales Dataset (Kaggle)]([https://www.kaggle.com/your-dataset-link](https://www.kaggle.com/datasets/zahidmughal2343/supplement-sales-data))
 
 The dataset includes the following key business dimensions:
