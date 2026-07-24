@@ -20,7 +20,7 @@ This analysis focuses on the following key business areas:
 
   An interactive Tableau dashboard can be viewed here.
 
-> 🔗 **Tableau Public Dashboard:** *(Add your Tableau Public link after publishing)*
+> 🔗 **Tableau Public Dashboard:** *([Add your Tableau Public link after publishing](https://public.tableau.com/app/profile/sachidananda.swain6437/viz/NutriGlobalSalesDashboard/GlobalNutritionSalesDashboard?publish=yes))*
 
 The SQL queries used to inspect and perform data quality checks can be found [here](SQL/02_data_quality_checks.sql).
 
@@ -53,9 +53,11 @@ Overall, NutriGlobal generated **$22.91M** in revenue from **658,478 units sold*
 Among product categories, **Vitamins** and **Minerals** generated the highest revenue, together contributing more than one-third of total sales. From a geographic perspective, **Canada** emerged as the strongest-performing market, while **iHerb** was the leading sales platform by revenue, outperforming both Amazon and Walmart.
 
 The following dashboard summarizes the primary business metrics and performance trends explored throughout this analysis.
+
 ![NutriGlobal sales dashboard](Images/dashboard for nutriglob.png)
 
-    The remainder of this report explores these findings in greater detail, highlighting performance across products, markets, sales platforms, and time to identify opportunities for continued business growth.
+The remainder of this report explores these findings in greater detail, highlighting performance across products, markets, sales platforms, and time to identify opportunities for continued business growth.
+
 
     # Insights Deep Dive
 
